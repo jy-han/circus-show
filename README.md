@@ -2,6 +2,7 @@
 A console program created to exercise the inherit, interface. 
 
 It works fistly chose an actor, and then show the actors telent and information.
+
 ********* welcome to sun circus **********
 *********  choose an actor  **********
 *********    1.bear    **********
