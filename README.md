@@ -5,7 +5,7 @@ It works fistly chose an actor, and then show the actors telent and information.
 
 ******************************************
 ** welcome to sun circus **
-  ** choose an actor **
+   choose an actor 
          1zbear    
          2.lion    
          3.monkey 
